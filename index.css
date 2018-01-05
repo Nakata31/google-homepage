@@ -43,16 +43,18 @@
 
 }
 
-.search {
+input {
 
 	height: 40px;
 	width: 450px;
 	position: absolute;
 	top: 35%;
-	left: 32.5%;
+	left: 32.7%;
 	background-color: white;
 	box-shadow: 0 1px 2px grey;
 	border: 0.5px grey;
+	font-family: arial;
+	padding-left: 10px;
 }
 
 
