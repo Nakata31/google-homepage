@@ -22,7 +22,7 @@
 
 .boton3 {
 
-	border-radius: 2px;
+	border-radius: 1px;
 	border: none;
 	padding: 8px 18px;
 	font-family: arial;
@@ -51,14 +51,14 @@
 	top: 35%;
 	left: 32.5%;
 	background-color: white;
-	box-shadow: 0 1px 5px grey;
+	box-shadow: 0 1px 2px grey;
 	border: 0.5px grey;
 }
 
 
 .boton {
 
-	border-radius: 2px;
+	border-radius: 1px;
 	border: none;
 	padding: 10px 22px;
 	font-family: arial;
@@ -72,7 +72,7 @@
 
 .boton2 {
 
-	border-radius: 2px;
+	border-radius: 1px;
 	border: none;
 	padding: 10px 22px;
 	font-family: arial;
@@ -134,4 +134,15 @@
 	padding: 20px;
 	color: #666666;
 	
+}
+
+.hyper {
+
+	text-decoration: none;
+	color: #666666;
+}
+
+.hyper:hover {
+
+	text-decoration: underline;
 }
