@@ -1,3 +1,39 @@
+.topbar {
+
+	float: right;
+	font-family: arial;
+	font-size: .8em;
+	margin: 10px 5px;
+	word-spacing: normal;
+
+}
+
+.svg {
+
+	vertical-align: middle;
+	padding-left: 10px;
+}
+
+.svg:hover {
+
+	color: black;
+}
+
+
+.boton3 {
+
+	border-radius: 2px;
+	border: none;
+	padding: 8px 18px;
+	font-family: arial;
+	font-weight: bold;
+	color: grey;
+	font-size: .9em;
+	margin: 5px 15px;
+	background-color: #4285F4;
+	color: white; 
+}
+
 .logo {
 	
 	position: absolute;
@@ -15,13 +51,14 @@
 	top: 35%;
 	left: 33%;
 	background-color: white;
-	box-shadow: 0 1px 1.75px grey;
+	box-shadow: 0 2px 5px grey;
 	border: 0.5px grey;
 }
 
+
 .boton {
 
-	border-radius: 0;
+	border-radius: 2px;
 	border: none;
 	padding: 10px 22px;
 	font-family: arial;
@@ -35,7 +72,7 @@
 
 .boton2 {
 
-	border-radius: 0;
+	border-radius: 2px;
 	border: none;
 	padding: 10px 22px;
 	font-family: arial;
@@ -45,4 +82,32 @@
 	position: absolute;
 	top: 42%;
 	left: 51.5%;
+}
+
+.boton:hover {
+
+	color: black;
+	box-shadow: 0 0 1px black;
+	background-color: #F3F3F3;
+}
+
+.boton2:hover {
+
+	color: black;
+	box-shadow: 0 0 1px black;
+	background-color: #F3F3F3;
+}
+
+.texto {
+
+	position: absolute;
+	top: 49%;
+	left: 40.5%;
+	font-size: .8em;
+	font-family: arial;
+}
+
+.bottom {
+
+	position: absolute;
 }
