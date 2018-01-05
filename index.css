@@ -1,0 +1,48 @@
+.logo {
+	
+	position: absolute;
+	top: 22%;
+	left: 40%;
+	margin: auto;
+
+}
+
+.search {
+
+	height: 40px;
+	width: 450px;
+	position: absolute;
+	top: 35%;
+	left: 33%;
+	background-color: white;
+	box-shadow: 0 1px 1.75px grey;
+	border: 0.5px grey;
+}
+
+.boton {
+
+	border-radius: 0;
+	border: none;
+	padding: 10px 22px;
+	font-family: arial;
+	font-weight: bold;
+	color: grey;
+	font-size: .8em; 
+	position: absolute;
+	top: 42%;
+	left: 38.5%;
+}
+
+.boton2 {
+
+	border-radius: 0;
+	border: none;
+	padding: 10px 22px;
+	font-family: arial;
+	font-weight: bold;
+	color: grey;
+	font-size: .8em; 
+	position: absolute;
+	top: 42%;
+	left: 51.5%;
+}
