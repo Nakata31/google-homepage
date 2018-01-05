@@ -51,3 +51,8 @@ Visualizacion pagina y act readme
 
 	-Cambio en settings github para visualizar paginas
 	-Ultima actualizacion readme
+
+Modificación fallos
+
+	-Arreglo colocacion elementos pagina
+	-Mejoras en tamaños

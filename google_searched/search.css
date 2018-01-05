@@ -1,4 +1,12 @@
-.topbar {
+.topback {
+
+	background-color: #FAFAFA;
+	border-bottom: solid .5px lightgrey;
+	width: 100%
+	height: 200px;
+}
+
+#topbar {
 
 	
 	font-family: arial;
@@ -7,9 +15,8 @@
 	word-spacing: normal;
 	width: 100%
 	padding: 20px;
-	height: 110px;
-	background-color: #FAFAFA;
-	border-bottom: solid .5px lightgrey;
+	height: 80px;
+
 
 }
 
@@ -31,15 +38,23 @@
 	color: black;
 }
 
+.menu {	
+
+	margin: 0 auto;
+	font-family: arial;
+	font-size: .8em;
+	padding-left: 150px;
+	padding-bottom: 10px;
+}
+
+
 ul {
 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	position: absolute;
-	top: 10%;
-	left: 14%;
+
 }
 
 li {
@@ -95,7 +110,9 @@ li a:hover {
 	font-size: .8em;
 	width: 60%;
 	color: #666666;
-	margin: 20px 190px;
+	padding-left: 150px;
+	padding-top: 10px;
+	
 }
 
 input {
@@ -115,8 +132,9 @@ input {
 
 .results {
 
-	margin: 10px 20px;
+	padding-left: 150px;
 	position: relative;
+	padding-top: 10px;
 
 }
 
