@@ -90,6 +90,14 @@ li a:hover {
 
 }
 
+#tiempo {
+	font-family: arial;
+	font-size: .8em;
+	width: 60%;
+	color: #666666;
+	margin: 20px 190px;
+}
+
 input {
 
 	height: 45px;
@@ -104,9 +112,11 @@ input {
 	color: black;
 }
 
+
 .results {
 
-	margin-top: 70px;
+	margin: 10px 20px;
+	position: relative;
 
 }
 
@@ -185,8 +195,9 @@ h3 a:hover {
 
 .bottom {
 
-	position: absolute;
-	top: 95%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
 	background-color: #F2F2F2;
 	width: 100%;
 	font-family: arial;
